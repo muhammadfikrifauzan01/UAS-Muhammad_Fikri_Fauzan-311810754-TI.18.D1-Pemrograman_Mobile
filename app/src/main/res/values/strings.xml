@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">qrcode</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="underline">
+     <u>Create New Account</u>.
+    </string>
+    <string name="data_d">Data D</string>
+    <string-array name="datad">
+        <item>data d1</item>
+        <item>data d2</item>
+        <item>Data d3</item>
+    </string-array>
+</resources>
